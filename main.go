@@ -10,10 +10,14 @@ import (
 func main(){
 	/*
 	so executa na linha de comando
-	go run main.go ip --host pudim.com.br
+	go run main.go ip --host example.com.br
 
-	se colocar sem a flag --host. Volta o ip do google
+
+	so executar na linha de comando 
+	go run main.go server  --host google.com
 	*/
+
+	//Para executar so usar linha-de-comando.exe ip host example
 	fmt.Println("Inicio")
 
 	aplicacao:= app.Gerar()
