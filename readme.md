@@ -11,6 +11,7 @@ Este projeto em Go realiza consultas de IP e servidores de nomes (NS) para um ho
 
 1. Certifique-se de ter o Go instalado em sua máquina.
 2. Clone este repositório.
+3. go mod tidy
 
 ```bash
 git clone https://github.com/StyvenNoronha/seu-repositorio.git
