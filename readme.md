@@ -14,7 +14,7 @@ Este projeto em Go realiza consultas de IP e servidores de nomes (NS) para um ho
 3. go mod tidy
 
 ```bash
-git clone https://github.com/StyvenNoronha/seu-repositorio.git
+git clone https://github.com/StyvenNoronha/seu-repositorio.git](https://github.com/StyvenNoronha/Projeto-Golang---Busca-por-servidor.git
 cd seu-repositorio
 ```
 
